@@ -17,7 +17,6 @@ This guide provides fast-action tools, learning resources, and affordable servic
 | Yoast SEO / RankMath | WordPress on-page SEO                 | [https://yoast.com](https://yoast.com) / [https://rankmath.com](https://rankmath.com) |
 | Canva                | Visual content for posts              | [https://canva.com](https://canva.com)                                                |
 | Hemingway Editor     | Make writing clear + concise          | [https://hemingwayapp.com](https://hemingwayapp.com)                                  |
-
 ---
 
 ### 🛠️ Development & Deployment Tools
