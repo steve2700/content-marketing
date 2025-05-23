@@ -1,229 +1,292 @@
-🌸 Local Aesthetic & Wellness Business Setup Guide (SA)
+Local Aesthetic Business Setup
 
-Step 1: Define the Brand
+This markdown outlines the complete setup for launching your mom’s local aesthetics and massage business from home in South Africa, with a plan to expand online visibility and get the first clients.
 
-Business Name: (e.g., Glow Touch Aesthetics)
 
-Services Offered: Facials, Skin Care, Massages, Body Treatments, Mobile/Home Services.
+---
 
-Location Target: Local (e.g., Johannesburg, Pretoria, Soweto, etc.)
+1. Business Setup Overview
 
-Unique Selling Point (USP): Home visits, personalized care, organic products, affordable pricing.
+Business Type: Home-based aesthetician and massage therapist
+
+Services Offered: Facials, skin treatments, massages, and mobile home visits
+
+Target Area: Local neighborhood + nearby suburbs (based in South Africa)
 
 
 
 ---
 
-Step 2: Create Business Accounts
+2. Facebook Business Page Setup
 
-✅ Facebook Business Page
-
-1. Go to https://www.facebook.com/pages/create
+1. Go to Facebook Business Pages
 
 
-2. Choose: Business or Brand
+2. Choose Business or Brand
 
 
-3. Fill in:
-
-Page Name: Glow Touch Aesthetics (or your mum’s brand name)
-
-Category: Beauty Salon, Massage Therapist, Skin Care Service
-
-Address: Optional if home-based. Add service areas instead.
-
-Phone Number: Add WhatsApp Business line.
+3. Page Name: [Business Name] Aesthetics & Massage
 
 
-
-4. Add:
-
-Logo/Profile Picture
-
-Cover photo showing treatments
-
-About section with services, prices, contact, hours
+4. Category: "Beauty, Cosmetic & Personal Care"
 
 
-
-5. Connect to WhatsApp (via Page Settings)
-
+5. Description: "Professional home-based beauty & massage services—also available for home visits."
 
 
-✅ Instagram Business Account
-
-1. Download Instagram or open: https://www.instagram.com/
+6. Upload a profile photo (e.g. logo or headshot) and cover photo (aesthetic workspace or results)
 
 
-2. Create a new account (with business email/phone).
+7. Add contact info (Phone number, WhatsApp link, email)
 
 
-3. Choose: Switch to Professional Account > Business
+8. Add service areas and working hours
 
 
-4. Add:
-
-Profile pic, bio (e.g., "Home-based Aesthetician | Facials | Massage | Book via WhatsApp")
-
-Link to Facebook Page
-
-
-
-5. Post content (before/after, tips, testimonials, treatments)
-
-
-
-✅ WhatsApp Business Account
-
-1. Download WhatsApp Business app
-
-
-2. Register with a dedicated number
-
-
-3. Set:
-
-Business name
-
-Description: Services, location, hours
-
-Auto replies, away messages, and catalog (add service list + prices)
-
-Link to Facebook & Instagram via “Business Tools”
-
+9. Add a CTA button: “Book Now” or “WhatsApp Us”
 
 
 
 
 ---
 
-Step 3: Prepare for Ads & Tracking
+3. Instagram Business Account Setup
 
-Set Up Meta Business Suite (FB + IG Ads)
-
-1. Visit: https://business.facebook.com
+1. Download Instagram App
 
 
-2. Create business profile
+2. Create a new account with your business email
 
 
-3. Connect:
-
-Facebook Page
-
-Instagram Account
-
-WhatsApp Number
+3. Username: @yourbusinessname (e.g. @zen_skin_sa)
 
 
+4. Bio:
 
-4. Set up:
+"Home-based facials & massage"
 
-Pixel for website later
+"Skincare specialist | House calls available"
 
-Ad payment method (SA card/bank)
+"WhatsApp to book: 0123456789"
 
 
 
-5. Use Meta Ads Manager to create:
-
-Boosted Posts for visibility
-
-Lead Generation Ads (for bookings)
-
-Traffic Ads (when website is ready)
+5. Switch to a Professional Account (under settings)
 
 
+6. Connect to the Facebook Page
 
 
+7. Post:
 
----
+Before/after pics (with permission)
 
-Step 4: Get First 2 Clients
+Behind-the-scenes
 
-Strategy:
-
-1. Reach out to regulars (ask for testimonials)
-
-
-2. Offer a referral deal: "Refer a friend and both get 10% off"
-
-
-3. Create a promo package: "Glow Combo: Facial + Massage – R350 (home service!)"
-
-
-4. Post 3x/week:
-
-Before/after photos
-
-Client reviews (video if possible)
+Customer reviews
 
 Skincare tips
 
 
 
-5. WhatsApp Status updates:
 
-Daily tips
 
-Available booking slots
+---
 
-Limited deals
+4. WhatsApp Business Account
 
+1. Download WhatsApp Business App
+
+
+2. Register with your business phone number
+
+
+3. Business Profile:
+
+Business Name: [Business Name] Aesthetics
+
+Description: "Home-based skin care and massage services."
+
+Address (optional)
+
+Hours
+
+Email and website (when ready)
+
+
+
+4. Set Quick Replies (FAQs, pricing)
+
+
+5. Enable automated greeting and away messages
+
+
+6. Link WhatsApp on Instagram & Facebook
 
 
 
 
 ---
 
-Optional: First Ad Campaign (Budget: R100–R250)
+5. Google My Business Setup
 
-Goal	Ad Type	Target	Content	Call to Action
-
-Book Home Facial	Lead Ad	Women, 25-55, Gauteng	Before/after image + benefit	"Book Now" (WhatsApp)
-Awareness	Boosted Post	Local + Interests: Beauty, Self-care	"Home-based spa experience"	"Send Message"
+1. Visit Google Business Profile
 
 
-
----
-
-Step 5: Tools for Growth
-
-Google My Business (add later with address & reviews)
-
-Canva: Design content & flyers
-
-Calendly or Google Forms: For future bookings
-
-Facebook & IG Insights: Track what posts work
-
-Website: Coming soon with booking + payment
+2. Sign in with your Gmail
 
 
+3. Business Name: [Business Name] Aesthetics & Massage
 
----
 
-Benefits of Being Online
+4. Business Category: "Beauty salon" or "Massage therapist"
 
-Clients can book easily via WhatsApp
 
-Showcases her skills visually (before/after)
+5. Address Note: Since it's home-based:
 
-Builds trust with reviews & content
+Enter your full address (for Google's internal verification)
 
-Run ads to find more clients in nearby areas
+Select "I deliver goods and services to my customers"
 
-Track monthly/weekly sales and bookings
+Then choose "Hide my address (it's not a store)"
 
-Discover what treatments are trending locally
+Define your service area (e.g., suburbs)
+
+
+
+6. Add phone number, WhatsApp, working hours
+
+
+7. Add photos of workspace or services
+
+
+8. Verify your business (postcard, call or email)
+
 
 
 
 ---
 
-> "You don’t need a store. You need a story and an online door."
+6. Basic Ad Strategy (To Get First Clients)
+
+Platforms:
+
+Facebook & Instagram Ads
+
+WhatsApp Broadcast to existing customers
+
+
+Ad Types:
+
+Engagement Ad: Highlight services with a call to book via WhatsApp
+
+Geo-targeted Ad: Target nearby neighborhoods with location radius (5–10km)
+
+Testimonial Ad: Use reviews + images
+
+
+Example:
+
+"Need a glowing facial before the weekend? Get pampered from home or book a house call today! WhatsApp us now!"
 
 
 
-Let me know when you're ready to create designs, ads, or the website—I can help every step!
+---
+
+7. Bookings & Tracking
+
+Use WhatsApp labels to mark new clients, follow-ups, returning customers
+
+Google Calendar for scheduling appointments
+
+Later integrate a booking system via a website
+
+
+
+---
+
+8. Weekly & Monthly Goals
+
+Week 1: Launch pages, contact regulars, post intro + before/after content
+
+Week 2: Run small ad (R100–R150)
+
+Week 3: Ask for reviews/testimonials
+
+Month 1:
+
+Aim: 2 new clients
+
+Strategy: Personal outreach + WhatsApp ads
+
+
+
+
+---
+
+9. Future Website Plan (Add Later)
+
+Services page
+
+Online booking
+
+Testimonials
+
+WhatsApp chat plugin
+
+Blog for skincare tips
+
+Gallery of work
+
+
+
+---
+
+10. Benefits of Going Digital
+
+Get Discovered: Clients find you easily via search/maps
+
+Build Trust: Verified reviews and consistent posts
+
+24/7 Access: Online presence works while you rest
+
+Growth Data: Track bookings, peak times, and client preferences
+
+Stay Competitive: You’re searchable, professional & available
+
+
+
+---
+
+11. Optional Management Plan (If Outsourced)
+
+Setup Fee: R7,500 (all platforms + Google + branding)
+
+Ongoing Management:
+
+Weekly: R750
+
+Monthly: R2,500
+
+
+
+Includes:
+
+Weekly posts and responses
+
+Monthly strategy review
+
+Ads optimization
+
+Booking reminders
+
+Analytics reports
+
+
+
+---
+
+> "Let your business shine online—while you focus on your craft."
+
+
 
